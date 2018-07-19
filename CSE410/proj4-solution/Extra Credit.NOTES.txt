@@ -1,0 +1,21 @@
+
+Notes on Extra Credit Project #04
+----------------------------
+
+Comments about the assignment and responses to frequently asked questions will
+be added to this file as necessary.
+
+***** items added on 6/14/18 *****
+
+1. As stated on the assignment handout, your solution must compile, link, and
+execute correctly using "g++" on the CSE Linux systems (such as "cse410").
+
+2. As stated on the assignment handout, you are required to create a makefile which controls the translation of your program, and the name of your executable file must be "extracredit04".
+
+3. You may use masking and shifting to decompose the 16-bit logical addresses.  The example program in the following file demonstrates three methods for extracting bit fields:
+
+   ~cse410//Projects/project04.unpack.c
+
+4. This extra credit extends the program which you developed for Project #4.
+
+
